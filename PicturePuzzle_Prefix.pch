@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'PicturePuzzle' target in the 'PicturePuzzle' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

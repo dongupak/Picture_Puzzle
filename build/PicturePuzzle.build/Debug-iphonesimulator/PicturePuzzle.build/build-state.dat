@@ -1,0 +1,2083 @@
+TPicturePuzzle
+v7
+r0
+t331714184.217007
+cCheck dependencies
+cProcessInfoPlistFile /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/Info.plist PicturePuzzle-Info.plist
+cCompileXIB /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/MainWindow.xib
+cCompileXIB /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/PicturePuzzleViewController.xib
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/resolve.mp3 resolve.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/examShadow.mp3 examShadow.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/cat.mp3 cat.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/intro.png intro.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/main.png main.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/Howto.png Howto.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/credit.png credit.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/mbg.mp3 mbg.mp3
+cCompileXIB /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/exam.xib
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/호랑이2.png 호랑이2.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/호랑이.png 호랑이.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/코뿔소.png 코뿔소.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/코끼리.png 코끼리.png
+cCompileXIB /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam1.xib
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/tiger59.mp3 tiger59.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/ok.mp3 ok.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/lion.mp3 lion.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/koralla.mp3 koralla.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/hippo.mp3 hippo.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/helicopter.mp3 helicopter.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/fireEngine.mp3 fireEngine.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/farmbt.mp3 farmbt.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/elephant.mp3 elephant.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/duck.mp3 duck.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/dog.mp3 dog.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/cow.mp3 cow.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/chick.mp3 chick.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/chick1.mp3 chick1.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/car.mp3 car.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/camelaon.mp3 camelaon.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/bus.mp3 bus.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/토끼2.png 토끼2.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/토끼.png 토끼.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/코알라2.png 코알라2.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/코알라.png 코알라.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/코뿔소2.png 코뿔소2.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/코끼리2.png 코끼리2.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/카멜레온2.png 카멜레온2.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/카멜레온.png 카멜레온.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/젖소2.png 젖소2.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/젖소.png 젖소.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/오리2.png 오리2.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/사자2.png 사자2.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/사자.png 사자.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/부엉이2.png 부엉이2.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/부엉이.png 부엉이.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/병아리2.png 병아리2.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/병아리.png 병아리.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/기러기2.png 기러기2.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/기러기.png 기러기.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/고양이2.png 고양이2.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/강아지2.png 강아지2.png
+cCompileXIB /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam2.xib
+cCompileXIB /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam3.xib
+cCompileXIB /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam4.xib
+cCompileXIB /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam5.xib
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/염소.mp3 염소.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/하마.mp3 하마.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/코끼리1.mp3 코끼리1.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/사자.mp3 사자.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/젖소.mp3 젖소.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/고양이.mp3 고양이.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/오리.mp3 오리.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/코뿔소.mp3 코뿔소.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/pressPhoto1.m4a pressPhoto1.m4a
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/background.png background.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/speaker_on.png speaker_on.png
+cCompileXIB /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/main.xib
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/돼지_그림자.png 돼지_그림자.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/말_그림자.png 말_그림자.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/뱀_그림자.png 뱀_그림자.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/쥐_그림자.png 쥐_그림자.png
+cCpResource "build/Debug-iphonesimulator/PicturePuzzle.app/펭귄 그림자.png" "펭귄 그림자.png"
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/하마_그림자.png 하마_그림자.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/오리.png 오리.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/하마.png 하마.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/pressPhoto.mp3 pressPhoto.mp3
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/펭귄.png 펭귄.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/쥐.png 쥐.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/돼지1.m4a 돼지1.m4a
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/돼지.png 돼지.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/icon.png icon.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/butten_howto.png butten_howto.png
+cCpResource build/Debug-iphonesimulator/PicturePuzzle.app/butten_start.png butten_start.png
+cProcessPCH /var/folders/nv/nvvdLrZ+GyulkCKyupbmsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicturePuzzle_Prefix-dlcdqbwtamaoywctjxeqwbqhflqn/PicturePuzzle_Prefix.pch.gch PicturePuzzle_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/main-B9843B6026D6EFA4.o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/PicturePuzzleAppDelegate.o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/PicturePuzzleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/PicturePuzzleViewController.o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/PicturePuzzleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam.o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/exam.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam1.o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam1.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam2.o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam2.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam3.o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam3.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam4.o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam4.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam5.o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam5.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/main-7FCACDA03C996878.o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/PicturePuzzle normal i386
+cGenerateDSYMFile /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app.dSYM /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/PicturePuzzle
+cTouch /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004CC128840000000000000733
+t1287727236
+s1843
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/PicturePuzzleAppDelegate.h
+c000000004D11FC060000000000000291
+t1293024262
+s657
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/PicturePuzzleAppDelegate.m
+c000000004D11FE7C0000000000000AB3
+t1293024892
+s2739
+i"PicturePuzzleAppDelegate.h"
+i"PicturePuzzleViewController.h"
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/PicturePuzzleViewController.h
+c000000004D1220CC0000000000000281
+t1293033676
+s641
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+i"exam.h"
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/PicturePuzzleViewController.m
+c000000004D12271E0000000000000961
+t1293035294
+s2401
+i"PicturePuzzleViewController.h"
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/exam.h
+c000000004D13637E000000000000070D
+t1293116286
+s1805
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+i"exam1.h"
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/exam.m
+c000000004D13641E0000000000001287
+t1293116446
+s4743
+i"exam.h"
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/exam.xib
+c000000004D136470000000000000B024
+t1293116528
+s45092
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/main.h
+c000000004D11EE920000000000000262
+t1293020818
+s610
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+i"exam.h"
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/main.m
+c000000004D1220CC0000000000000905
+t1293033676
+s2309
+i"main.h"
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/main.xib
+c000000004D11EDB40000000000008C0A
+t1293020596
+s35850
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Howto.png
+c000000004D1062CE0000000000011E9F
+t1292919502
+s73375
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/MainWindow.xib
+c000000004D11FDBC0000000000006EC1
+t1293024700
+s28353
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/PicturePuzzleViewController.xib
+c000000004D11ED7E0000000000008BA4
+t1293020542
+s35748
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/PicturePuzzle_Prefix.pch
+c000000004D0B31D200000000000000C3
+t1292579282
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/background.png
+c000000004D10601E000000000000B907
+t1292918814
+s47367
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app
+t1310021384
+s3094
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app.dSYM
+t1310021384
+s102
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/Howto.png
+t1310021379
+s73375
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/Info.plist
+t1310021379
+s699
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/MainWindow.nib
+t1310021379
+s1640
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/PicturePuzzle
+t1310021384
+s130596
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/PicturePuzzleViewController.nib
+t1310021379
+s2925
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/PkgInfo
+t1310021379
+s8
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/background.png
+t1310021381
+s47367
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/bus.mp3
+t1310021380
+s42758
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/butten_howto.png
+t1310021381
+s6050
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/butten_start.png
+t1310021381
+s5939
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/camelaon.mp3
+t1310021380
+s58641
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/car.mp3
+t1310021380
+s33145
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/cat.mp3
+t1310021379
+s12247
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/chick.mp3
+t1310021380
+s33145
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/chick1.mp3
+t1310021380
+s33145
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/cow.mp3
+t1310021380
+s34112
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/credit.png
+t1310021379
+s73117
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/dog.mp3
+t1310021380
+s5312
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/duck.mp3
+t1310021380
+s18517
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/elephant.mp3
+t1310021380
+s38161
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/exam.nib
+t1310021380
+s3887
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/exam1.nib
+t1310021380
+s3893
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/exam2.nib
+t1310021380
+s3888
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/exam3.nib
+t1310021380
+s3894
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/exam4.nib
+t1310021381
+s3872
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/exam5.nib
+t1310021381
+s3894
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/examShadow.mp3
+t1310021379
+s84972
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/farmbt.mp3
+t1310021380
+s55297
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/fireEngine.mp3
+t1310021380
+s34817
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/helicopter.mp3
+t1310021380
+s39415
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/hippo.mp3
+t1310021380
+s44012
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/icon.png
+t1310021381
+s6044
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/intro.png
+t1310021379
+s6257
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/koralla.mp3
+t1310021380
+s56551
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/lion.mp3
+t1310021380
+s46102
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/main.nib
+t1310021381
+s2932
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/main.png
+t1310021379
+s89314
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/mbg.mp3
+t1310021379
+s779075
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/ok.mp3
+t1310021380
+s26458
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/pressPhoto.mp3
+t1310021381
+s76197
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/pressPhoto1.m4a
+t1310021381
+s93207
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/resolve.mp3
+t1310021379
+s31891
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/speaker_on.png
+t1310021381
+s6235
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/tiger59.mp3
+t1310021380
+s98595
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/강아지2.png
+t1310021380
+s8941
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/고양이.mp3
+t1310021381
+s178315
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/고양이2.png
+t1310021380
+s4066
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/기러기.png
+t1310021380
+s54649
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/기러기2.png
+t1310021380
+s6240
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/돼지.png
+t1310021381
+s17336
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/돼지1.m4a
+t1310021381
+s349892
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/돼지_그림자.png
+t1310021381
+s6519
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/말_그림자.png
+t1310021381
+s8095
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/뱀_그림자.png
+t1310021381
+s6965
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/병아리.png
+t1310021380
+s92124
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/병아리2.png
+t1310021380
+s8122
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/부엉이.png
+t1310021380
+s98358
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/부엉이2.png
+t1310021380
+s10813
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/사자.mp3
+t1310021381
+s214709
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/사자.png
+t1310021380
+s86302
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/사자2.png
+t1310021380
+s7923
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/염소.mp3
+t1310021381
+s53283
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/오리.mp3
+t1310021381
+s94961
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/오리.png
+t1310021381
+s86470
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/오리2.png
+t1310021380
+s7903
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/젖소.mp3
+t1310021381
+s216173
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/젖소.png
+t1310021380
+s87713
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/젖소2.png
+t1310021380
+s9029
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/쥐.png
+t1310021381
+s10213
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/쥐_그림자.png
+t1310021381
+s5737
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/카멜레온.png
+t1310021380
+s61456
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/카멜레온2.png
+t1310021380
+s8283
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/코끼리.png
+t1310021379
+s72422
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/코끼리1.mp3
+t1310021381
+s164120
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/코끼리2.png
+t1310021380
+s6902
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/코뿔소.mp3
+t1310021381
+s320459
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/코뿔소.png
+t1310021379
+s77299
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/코뿔소2.png
+t1310021380
+s7866
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/코알라.png
+t1310021380
+s89204
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/코알라2.png
+t1310021380
+s9044
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/토끼.png
+t1310021380
+s72102
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/토끼2.png
+t1310021380
+s8457
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/펭귄 그림자.png
+t1310021381
+s5924
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/펭귄.png
+t1310021381
+s13335
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/하마.mp3
+t1310021381
+s306262
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/하마.png
+t1310021381
+s13662
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/하마_그림자.png
+t1310021381
+s6211
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/호랑이.png
+t1310021379
+s75311
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/호랑이2.png
+t1310021379
+s8442
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/PicturePuzzle.LinkFileList
+c000000004E155703000000000000094E
+t1310021379
+s2382
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/PicturePuzzleAppDelegate.o
+t1310021383
+s55768
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/PicturePuzzleViewController.o
+t1310021383
+s51256
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam.o
+t1310021383
+s71928
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam1.o
+t1310021383
+s71924
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam2.o
+t1310021383
+s71924
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam3.o
+t1310021383
+s71924
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam4.o
+t1310021384
+s71956
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam5.o
+t1310021384
+s71944
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/main-7FCACDA03C996878.o
+t1310021384
+s49788
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/main-B9843B6026D6EFA4.o
+t1310021383
+s6496
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/bus.mp3
+c000000004CFF2D18000000000000A706
+t1291791640
+s42758
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/butten_howto.png
+c000000004D144F4A00000000000017A2
+t1293176650
+s6050
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/butten_start.png
+c000000004D144F3C0000000000001733
+t1293176636
+s5939
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/camelaon.mp3
+c000000004CFF2D18000000000000E511
+t1291791640
+s58641
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/car.mp3
+c000000004CFF2D180000000000008179
+t1291791640
+s33145
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/cat.mp3
+c000000004CFF2D180000000000002FD7
+t1291791640
+s12247
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/chick.mp3
+c000000004CFF2D1A0000000000008179
+t1291791642
+s33145
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/chick1.mp3
+c000000004CFF2D180000000000008179
+t1291791640
+s33145
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/cow.mp3
+c000000004CFF2D1A0000000000008540
+t1291791642
+s34112
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/credit.png
+c000000004D1060300000000000011D9D
+t1292918832
+s73117
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/dog.mp3
+c000000004CFF2D1A00000000000014C0
+t1291791642
+s5312
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/duck.mp3
+c000000004CFF2D1A0000000000004855
+t1291791642
+s18517
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/elephant.mp3
+c000000004CFF2D1A0000000000009511
+t1291791642
+s38161
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam1.h
+c000000004D13660A00000000000006E5
+t1293116938
+s1765
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+i"exam2.h"
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam1.m
+c000000004D13689E0000000000001298
+t1293117598
+s4760
+i"exam1.h"
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam1.xib
+c000000004D13676E000000000000B051
+t1293117294
+s45137
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam2.h
+c000000004D13689C00000000000006E5
+t1293117596
+s1765
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+i"exam3.h"
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam2.m
+c000000004D13689A0000000000001298
+t1293117594
+s4760
+i"exam2.h"
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam2.xib
+c000000004D136ABE000000000000AF8F
+t1293118142
+s44943
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam3.h
+c000000004D136B1E00000000000006E5
+t1293118238
+s1765
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+i"exam4.h"
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam3.m
+c000000004D136C660000000000001299
+t1293118566
+s4761
+i"exam3.h"
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam3.xib
+c000000004D136BF2000000000000AFAD
+t1293118450
+s44973
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam4.h
+c000000004D136F6200000000000006E6
+t1293119330
+s1766
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+i"exam5.h"
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam4.m
+c000000004D136E6E000000000000129A
+t1293119086
+s4762
+i"exam4.h"
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam4.xib
+c000000004D136E0A000000000000AF6C
+t1293118986
+s44908
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam5.h
+c000000004D136F64000000000000070C
+t1293119332
+s1804
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+i"PicturePuzzleViewController.h"
+i"exam.h"
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam5.m
+c000000004D1371A4000000000000129A
+t1293119908
+s4762
+i"exam5.h"
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam5.xib
+c000000004D137794000000000000AFD5
+t1293121428
+s45013
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/examShadow.mp3
+c000000004CFF2D1C0000000000014BEC
+t1291791644
+s84972
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/farmbt.mp3
+c000000004CFF2D1E000000000000D801
+t1291791646
+s55297
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/fireEngine.mp3
+c000000004CFF2D1E0000000000008801
+t1291791646
+s34817
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/helicopter.mp3
+c000000004CFF2D1E00000000000099F7
+t1291791646
+s39415
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/hippo.mp3
+c000000004CFF2D1E000000000000ABEC
+t1291791646
+s44012
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/icon.png
+c000000004D12A2CC000000000000179C
+t1293066956
+s6044
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/intro.png
+c000000004D061F2C0000000000001871
+t1292246828
+s6257
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/koralla.mp3
+c000000004CFF2D1E000000000000DCE7
+t1291791646
+s56551
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/lion.mp3
+c000000004CFF2D20000000000000B416
+t1291791648
+s46102
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/main.m
+c000000004D0B31D2000000000000016D
+t1292579282
+s365
+i<UIKit/UIKit.h>
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/main.png
+c000000004D1060BA0000000000015CE2
+t1292918970
+s89314
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/mbg.mp3
+c000000004D0B64E000000000000BE343
+t1292592352
+s779075
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/ok.mp3
+c000000004CFF2D20000000000000675A
+t1291791648
+s26458
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/pressPhoto.mp3
+c000000004D134E9E00000000000129A5
+t1293110942
+s76197
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/pressPhoto1.m4a
+c000000004D0CEC340000000000016C17
+t1292692532
+s93207
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/resolve.mp3
+c000000004CFF2D240000000000007C93
+t1291791652
+s31891
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/speaker_on.png
+c000000004D116274000000000000185B
+t1292984948
+s6235
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/tiger59.mp3
+c000000004D0B64E40000000000018123
+t1292592356
+s98595
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/강아지2.png
+c000000004CE76D9C00000000000022ED
+t1290235292
+s8941
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/고양이.mp3
+c000000004D0B64E2000000000002B88B
+t1292592354
+s178315
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/고양이2.png
+c000000004CE76D9E0000000000000FE2
+t1290235294
+s4066
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/기러기.png
+c000000004CE76D9E000000000000D579
+t1290235294
+s54649
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/기러기2.png
+c000000004CE76DA00000000000001860
+t1290235296
+s6240
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/돼지.png
+c000000004D13733800000000000043B8
+t1293120312
+s17336
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/돼지1.m4a
+c000000004D13711E00000000000556C4
+t1293119774
+s349892
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/돼지_그림자.png
+c000000004D12A9DA0000000000001977
+t1293068762
+s6519
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/말_그림자.png
+c000000004D12A9EE0000000000001F9F
+t1293068782
+s8095
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/뱀_그림자.png
+c000000004D12AB280000000000001B35
+t1293069096
+s6965
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/병아리.png
+c000000004CE76DA600000000000167DC
+t1290235302
+s92124
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/병아리2.png
+c000000004CE76DA60000000000001FBA
+t1290235302
+s8122
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/부엉이.png
+c000000004CE76DA60000000000018036
+t1290235302
+s98358
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/부엉이2.png
+c000000004CE76DA60000000000002A3D
+t1290235302
+s10813
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/사자.mp3
+c000000004D0B64E200000000000346B5
+t1292592354
+s214709
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/사자.png
+c000000004CE76DA6000000000001511E
+t1290235302
+s86302
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/사자2.png
+c000000004CE76DA60000000000001EF3
+t1290235302
+s7923
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/염소.mp3
+c000000004D0B64E4000000000000D023
+t1292592356
+s53283
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/오리.mp3
+c000000004D0B64E000000000000172F1
+t1292592352
+s94961
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/오리.png
+c000000004D0EBD6000000000000151C6
+t1292811616
+s86470
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/오리2.png
+c000000004CE76DA60000000000001EDF
+t1290235302
+s7903
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/젖소.mp3
+c000000004D0B64E20000000000034C6D
+t1292592354
+s216173
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/젖소.png
+c000000004CE76DA800000000000156A1
+t1290235304
+s87713
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/젖소2.png
+c000000004CE76DA80000000000002345
+t1290235304
+s9029
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/쥐.png
+c000000004D11B54200000000000027E5
+t1293006146
+s10213
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/쥐_그림자.png
+c000000004D12A9B40000000000001669
+t1293068724
+s5737
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/카멜레온.png
+c000000004CE76DA8000000000000F010
+t1290235304
+s61456
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/카멜레온2.png
+c000000004CE76DA8000000000000205B
+t1290235304
+s8283
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/코끼리.png
+c000000004CE76DA80000000000011AE6
+t1290235304
+s72422
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/코끼리1.mp3
+c000000004D0B64E40000000000028118
+t1292592356
+s164120
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/코끼리2.png
+c000000004CE76DA80000000000001AF6
+t1290235304
+s6902
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/코뿔소.mp3
+c000000004D0B64E6000000000004E3CB
+t1292592358
+s320459
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/코뿔소.png
+c000000004CE76DA80000000000012DF3
+t1290235304
+s77299
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/코뿔소2.png
+c000000004CE76DA80000000000001EBA
+t1290235304
+s7866
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/코알라.png
+c000000004CE76DA80000000000015C74
+t1290235304
+s89204
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/코알라2.png
+c000000004CE76DA80000000000002354
+t1290235304
+s9044
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/토끼.png
+c000000004CE76DA800000000000119A6
+t1290235304
+s72102
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/토끼2.png
+c000000004CE76DA80000000000002109
+t1290235304
+s8457
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/펭귄 그림자.png
+c000000004D12A99A0000000000001724
+t1293068698
+s5924
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/펭귄.png
+c000000004D11B88A0000000000003417
+t1293006986
+s13335
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/하마.mp3
+c000000004D0B64E4000000000004AC56
+t1292592356
+s306262
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/하마.png
+c000000004D11B520000000000000355E
+t1293006112
+s13662
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/하마_그림자.png
+c000000004D12AB440000000000001843
+t1293069124
+s6211
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/호랑이.png
+c000000004CE76DA8000000000001262F
+t1290235304
+s75311
+
+N/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/호랑이2.png
+c000000004CE76DA800000000000020FA
+t1290235304
+s8442
+
+N/var/folders/nv/nvvdLrZ+GyulkCKyupbmsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicturePuzzle_Prefix-dlcdqbwtamaoywctjxeqwbqhflqn/PicturePuzzle_Prefix.pch.gch
+t1310021382
+s15453392
+
+NPicturePuzzle-Info.plist
+c000000004D137D9400000000000003C6
+t1293122964
+s966
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies331714178#331714179#0(0"0(0#1#0"8658197472#0"0#
+
+CCompileC build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/PicturePuzzleAppDelegate.o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/PicturePuzzleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331714183.279585
+e331714183.431811
+r1
+xCompileC
+xbuild/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/PicturePuzzleAppDelegate.o
+x/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/PicturePuzzleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@177"Compile /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/PicturePuzzleAppDelegate.m331714183#331714183#0(0"0(0#0#169"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/PicturePuzzleAppDelegate.m8659269376#3138"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-generated-files.hmap -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-own-target-headers.hmap -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-all-target-headers.hmap -iquote /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-project-headers.hmap -F/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/include -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/DerivedSources/i386 -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/DerivedSources -include /var/folders/nv/nvvdLrZ+GyulkCKyupbmsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicturePuzzle_Prefix-dlcdqbwtamaoywctjxeqwbqhflqn/PicturePuzzle_Prefix.pch -c /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/PicturePuzzleAppDelegate.m -o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/PicturePuzzleAppDelegate.o0#
+
+CCompileC build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/PicturePuzzleViewController.o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/PicturePuzzleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331714183.337728
+e331714183.525731
+r1
+xCompileC
+xbuild/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/PicturePuzzleViewController.o
+x/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/PicturePuzzleViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@180"Compile /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/PicturePuzzleViewController.m331714183#331714183#0(0"0(0#0#172"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/PicturePuzzleViewController.m8657742592#3144"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-generated-files.hmap -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-own-target-headers.hmap -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-all-target-headers.hmap -iquote /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-project-headers.hmap -F/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/include -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/DerivedSources/i386 -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/DerivedSources -include /var/folders/nv/nvvdLrZ+GyulkCKyupbmsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicturePuzzle_Prefix-dlcdqbwtamaoywctjxeqwbqhflqn/PicturePuzzle_Prefix.pch -c /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/PicturePuzzleViewController.m -o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/PicturePuzzleViewController.o0#
+
+CCompileC build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam.o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/exam.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331714183.431941
+e331714183.627523
+r1
+xCompileC
+xbuild/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam.o
+x/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/exam.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@157"Compile /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/exam.m331714183#331714183#0(0"0(0#0#149"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/exam.m8647978848#3098"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-generated-files.hmap -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-own-target-headers.hmap -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-all-target-headers.hmap -iquote /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-project-headers.hmap -F/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/include -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/DerivedSources/i386 -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/DerivedSources -include /var/folders/nv/nvvdLrZ+GyulkCKyupbmsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicturePuzzle_Prefix-dlcdqbwtamaoywctjxeqwbqhflqn/PicturePuzzle_Prefix.pch -c /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/exam.m -o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam.o0#
+
+CCompileC build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam1.o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam1.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331714183.525842
+e331714183.716441
+r1
+xCompileC
+xbuild/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam1.o
+x/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam1.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@150"Compile /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam1.m331714183#331714183#0(0"0(0#0#142"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam1.m8646945728#3092"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-generated-files.hmap -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-own-target-headers.hmap -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-all-target-headers.hmap -iquote /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-project-headers.hmap -F/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/include -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/DerivedSources/i386 -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/DerivedSources -include /var/folders/nv/nvvdLrZ+GyulkCKyupbmsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicturePuzzle_Prefix-dlcdqbwtamaoywctjxeqwbqhflqn/PicturePuzzle_Prefix.pch -c /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam1.m -o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam1.o0#
+
+CCompileC build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam2.o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam2.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331714183.627626
+e331714183.816571
+r1
+xCompileC
+xbuild/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam2.o
+x/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam2.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@150"Compile /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam2.m331714183#331714183#0(0"0(0#0#142"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam2.m8661077088#3092"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-generated-files.hmap -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-own-target-headers.hmap -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-all-target-headers.hmap -iquote /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-project-headers.hmap -F/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/include -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/DerivedSources/i386 -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/DerivedSources -include /var/folders/nv/nvvdLrZ+GyulkCKyupbmsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicturePuzzle_Prefix-dlcdqbwtamaoywctjxeqwbqhflqn/PicturePuzzle_Prefix.pch -c /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam2.m -o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam2.o0#
+
+CCompileC build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam3.o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam3.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331714183.716552
+e331714183.911598
+r1
+xCompileC
+xbuild/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam3.o
+x/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam3.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@150"Compile /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam3.m331714183#331714183#0(0"0(0#0#142"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam3.m8659821440#3092"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-generated-files.hmap -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-own-target-headers.hmap -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-all-target-headers.hmap -iquote /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-project-headers.hmap -F/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/include -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/DerivedSources/i386 -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/DerivedSources -include /var/folders/nv/nvvdLrZ+GyulkCKyupbmsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicturePuzzle_Prefix-dlcdqbwtamaoywctjxeqwbqhflqn/PicturePuzzle_Prefix.pch -c /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam3.m -o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam3.o0#
+
+CCompileC build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam4.o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam4.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331714183.816685
+e331714184.012935
+r1
+xCompileC
+xbuild/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam4.o
+x/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam4.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@150"Compile /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam4.m331714183#331714184#0(0"0(0#0#142"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam4.m8657980384#3092"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-generated-files.hmap -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-own-target-headers.hmap -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-all-target-headers.hmap -iquote /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-project-headers.hmap -F/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/include -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/DerivedSources/i386 -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/DerivedSources -include /var/folders/nv/nvvdLrZ+GyulkCKyupbmsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicturePuzzle_Prefix-dlcdqbwtamaoywctjxeqwbqhflqn/PicturePuzzle_Prefix.pch -c /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam4.m -o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam4.o0#
+
+CCompileC build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam5.o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam5.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331714183.911704
+e331714184.093205
+r1
+xCompileC
+xbuild/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam5.o
+x/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam5.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@150"Compile /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam5.m331714183#331714184#0(0"0(0#0#142"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam5.m8661332352#3092"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-generated-files.hmap -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-own-target-headers.hmap -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-all-target-headers.hmap -iquote /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-project-headers.hmap -F/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/include -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/DerivedSources/i386 -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/DerivedSources -include /var/folders/nv/nvvdLrZ+GyulkCKyupbmsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicturePuzzle_Prefix-dlcdqbwtamaoywctjxeqwbqhflqn/PicturePuzzle_Prefix.pch -c /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam5.m -o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/exam5.o0#
+
+CCompileC build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/main-7FCACDA03C996878.o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331714184.013034
+e331714184.134057
+r1
+xCompileC
+xbuild/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/main-7FCACDA03C996878.o
+x/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@157"Compile /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/main.m331714184#331714184#0(0"0(0#0#149"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/main.m8658857024#3115"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-generated-files.hmap -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-own-target-headers.hmap -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-all-target-headers.hmap -iquote /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-project-headers.hmap -F/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/include -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/DerivedSources/i386 -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/DerivedSources -include /var/folders/nv/nvvdLrZ+GyulkCKyupbmsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicturePuzzle_Prefix-dlcdqbwtamaoywctjxeqwbqhflqn/PicturePuzzle_Prefix.pch -c /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/main.m -o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/main-7FCACDA03C996878.o0#
+
+CCompileC build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/main-B9843B6026D6EFA4.o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331714183.278210
+e331714183.337624
+r1
+xCompileC
+xbuild/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/main-B9843B6026D6EFA4.o
+x/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@149"Compile /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/main.m331714183#331714183#0(0"0(0#0#141"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/main.m8660233184#3107"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-generated-files.hmap -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-own-target-headers.hmap -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-all-target-headers.hmap -iquote /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-project-headers.hmap -F/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/include -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/DerivedSources/i386 -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/DerivedSources -include /var/folders/nv/nvvdLrZ+GyulkCKyupbmsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicturePuzzle_Prefix-dlcdqbwtamaoywctjxeqwbqhflqn/PicturePuzzle_Prefix.pch -c /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/main.m -o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/main-B9843B6026D6EFA4.o0#
+
+CCompileXIB /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/exam.xib
+s331714179.556172
+e331714180.106840
+r1
+xCompileXIB
+x/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/exam.xib
+lSLF07#2@27"CompileXIB Classes/exam.xib331714179#331714180#0(0"0(0#0#151"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/exam.xib8647992800#860"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/exam.nib /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/exam.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/main.xib
+s331714181.459595
+e331714181.922004
+r1
+xCompileXIB
+x/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/main.xib
+lSLF07#2@27"CompileXIB Classes/main.xib331714181#331714181#0(0"0(0#0#151"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/main.xib8658347296#860"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/main.nib /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Classes/main.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/MainWindow.xib
+s331714179.057647
+e331714179.543918
+r1
+xCompileXIB
+x/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib331714179#331714179#0(0"0(0#0#149"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/MainWindow.xib8659535520#864"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/MainWindow.nib /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/PicturePuzzleViewController.xib
+s331714179.058742
+e331714179.628489
+r1
+xCompileXIB
+x/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/PicturePuzzleViewController.xib
+lSLF07#2@42"CompileXIB PicturePuzzleViewController.xib331714179#331714179#0(0"0(0#0#166"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/PicturePuzzleViewController.xib8659337792#898"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/PicturePuzzleViewController.nib /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/PicturePuzzleViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam1.xib
+s331714179.658517
+e331714180.355285
+r1
+xCompileXIB
+x/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam1.xib
+lSLF07#2@20"CompileXIB exam1.xib331714179#331714180#0(0"0(0#0#144"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam1.xib8659822432#854"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/exam1.nib /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam1.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam2.xib
+s331714180.290937
+e331714180.886040
+r1
+xCompileXIB
+x/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam2.xib
+lSLF07#2@20"CompileXIB exam2.xib331714180#331714180#0(0"0(0#0#144"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam2.xib8648293504#854"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/exam2.nib /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam2.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam3.xib
+s331714180.355390
+e331714180.993718
+r1
+xCompileXIB
+x/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam3.xib
+lSLF07#2@20"CompileXIB exam3.xib331714180#331714180#0(0"0(0#0#144"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam3.xib8645904384#854"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/exam3.nib /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam3.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam4.xib
+s331714180.886236
+e331714181.388668
+r1
+xCompileXIB
+x/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam4.xib
+lSLF07#2@20"CompileXIB exam4.xib331714180#331714181#0(0"0(0#0#144"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam4.xib8660809440#854"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/exam4.nib /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam4.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam5.xib
+s331714180.993809
+e331714181.616529
+r1
+xCompileXIB
+x/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam5.xib
+lSLF07#2@20"CompileXIB exam5.xib331714180#331714181#0(0"0(0#0#144"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam5.xib8658209920#854"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/exam5.nib /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/exam5.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource "build/Debug-iphonesimulator/PicturePuzzle.app/펭귄 그림자.png" "펭귄 그림자.png"
+s331714181.627168
+e331714181.674870
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/펭귄 그림자.png
+x펭귄 그림자.png
+lSLF07#2@49"Copy 펭귄 그림자.png331714181#331714181#0(0"0(0#0#179"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/펭귄 그림자.png8647806656#798"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/펭귄 그림자.png" /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/Howto.png Howto.png
+s331714179.552681
+e331714179.623403
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/Howto.png
+xHowto.png
+lSLF07#2@14"Copy Howto.png331714179#331714179#0(0"0(0#0#144"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Howto.png8651055680#761"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/Howto.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/background.png background.png
+s331714181.401401
+e331714181.452890
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/background.png
+xbackground.png
+lSLF07#2@19"Copy background.png331714181#331714181#0(0"0(0#0#149"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/background.png8659346176#766"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/background.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/bus.mp3 bus.mp3
+s331714180.176627
+e331714180.216896
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/bus.mp3
+xbus.mp3
+lSLF07#2@12"Copy bus.mp3331714180#331714180#0(0"0(0#0#142"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/bus.mp38658813824#759"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/bus.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/butten_howto.png butten_howto.png
+s331714181.682284
+e331714181.688938
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/butten_howto.png
+xbutten_howto.png
+lSLF07#2@21"Copy butten_howto.png331714181#331714181#0(0"0(0#0#151"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/butten_howto.png8658924512#768"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/butten_howto.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/butten_start.png butten_start.png
+s331714181.684077
+e331714181.692992
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/butten_start.png
+xbutten_start.png
+lSLF07#2@21"Copy butten_start.png331714181#331714181#0(0"0(0#0#151"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/butten_start.png8658786528#768"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/butten_start.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/camelaon.mp3 camelaon.mp3
+s331714180.175202
+e331714180.216247
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/camelaon.mp3
+xcamelaon.mp3
+lSLF07#2@17"Copy camelaon.mp3331714180#331714180#0(0"0(0#0#147"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/camelaon.mp38659130080#764"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/camelaon.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/car.mp3 car.mp3
+s331714180.172274
+e331714180.217066
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/car.mp3
+xcar.mp3
+lSLF07#2@12"Copy car.mp3331714180#331714180#0(0"0(0#0#142"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/car.mp38612567616#759"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/car.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/cat.mp3 cat.mp3
+s331714179.547281
+e331714179.613935
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/cat.mp3
+xcat.mp3
+lSLF07#2@12"Copy cat.mp3331714179#331714179#0(0"0(0#0#142"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/cat.mp38657986848#759"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/cat.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/chick.mp3 chick.mp3
+s331714180.165309
+e331714180.216401
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/chick.mp3
+xchick.mp3
+lSLF07#2@14"Copy chick.mp3331714180#331714180#0(0"0(0#0#144"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/chick.mp38622013440#761"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/chick.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/chick1.mp3 chick1.mp3
+s331714180.169565
+e331714180.216513
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/chick1.mp3
+xchick1.mp3
+lSLF07#2@15"Copy chick1.mp3331714180#331714180#0(0"0(0#0#145"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/chick1.mp38616865952#762"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/chick1.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/cow.mp3 cow.mp3
+s331714180.163178
+e331714180.250226
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/cow.mp3
+xcow.mp3
+lSLF07#2@12"Copy cow.mp3331714180#331714180#0(0"0(0#0#142"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/cow.mp38623847200#759"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/cow.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/credit.png credit.png
+s331714179.553450
+e331714179.623609
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/credit.png
+xcredit.png
+lSLF07#2@15"Copy credit.png331714179#331714179#0(0"0(0#0#145"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/credit.png8649027936#762"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/credit.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/dog.mp3 dog.mp3
+s331714180.160550
+e331714180.174914
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/dog.mp3
+xdog.mp3
+lSLF07#2@12"Copy dog.mp3331714180#331714180#0(0"0(0#0#142"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/dog.mp38632509280#759"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/dog.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/duck.mp3 duck.mp3
+s331714180.146009
+e331714180.162091
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/duck.mp3
+xduck.mp3
+lSLF07#2@13"Copy duck.mp3331714180#331714180#0(0"0(0#0#143"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/duck.mp38633901408#760"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/duck.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/elephant.mp3 elephant.mp3
+s331714180.111508
+e331714180.175134
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/elephant.mp3
+xelephant.mp3
+lSLF07#2@17"Copy elephant.mp3331714180#331714180#0(0"0(0#0#147"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/elephant.mp38642234304#764"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/elephant.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/examShadow.mp3 examShadow.mp3
+s331714179.545924
+e331714179.624665
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/examShadow.mp3
+xexamShadow.mp3
+lSLF07#2@19"Copy examShadow.mp3331714179#331714179#0(0"0(0#0#149"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/examShadow.mp38658185440#766"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/examShadow.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/farmbt.mp3 farmbt.mp3
+s331714180.110964
+e331714180.175022
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/farmbt.mp3
+xfarmbt.mp3
+lSLF07#2@15"Copy farmbt.mp3331714180#331714180#0(0"0(0#0#145"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/farmbt.mp38645288704#762"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/farmbt.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/fireEngine.mp3 fireEngine.mp3
+s331714180.110413
+e331714180.160453
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/fireEngine.mp3
+xfireEngine.mp3
+lSLF07#2@19"Copy fireEngine.mp3331714180#331714180#0(0"0(0#0#149"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/fireEngine.mp38646410016#766"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/fireEngine.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/helicopter.mp3 helicopter.mp3
+s331714180.109840
+e331714180.163099
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/helicopter.mp3
+xhelicopter.mp3
+lSLF07#2@19"Copy helicopter.mp3331714180#331714180#0(0"0(0#0#149"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/helicopter.mp38646953984#766"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/helicopter.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/hippo.mp3 hippo.mp3
+s331714180.109295
+e331714180.174803
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/hippo.mp3
+xhippo.mp3
+lSLF07#2@14"Copy hippo.mp3331714180#331714180#0(0"0(0#0#144"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/hippo.mp38647858432#761"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/hippo.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/icon.png icon.png
+s331714181.677323
+e331714181.687186
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png331714181#331714181#0(0"0(0#0#143"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/icon.png8659234336#760"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/icon.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/intro.png intro.png
+s331714179.549103
+e331714179.598531
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/intro.png
+xintro.png
+lSLF07#2@14"Copy intro.png331714179#331714179#0(0"0(0#0#144"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/intro.png8657854784#761"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/intro.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/koralla.mp3 koralla.mp3
+s331714180.108750
+e331714180.162514
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/koralla.mp3
+xkoralla.mp3
+lSLF07#2@16"Copy koralla.mp3331714180#331714180#0(0"0(0#0#146"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/koralla.mp38647467872#763"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/koralla.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/lion.mp3 lion.mp3
+s331714180.108203
+e331714180.162399
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/lion.mp3
+xlion.mp3
+lSLF07#2@13"Copy lion.mp3331714180#331714180#0(0"0(0#0#143"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/lion.mp38648895360#760"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/lion.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/main.png main.png
+s331714179.550661
+e331714179.623180
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/main.png
+xmain.png
+lSLF07#2@13"Copy main.png331714179#331714179#0(0"0(0#0#143"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/main.png8657669504#760"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/main.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/mbg.mp3 mbg.mp3
+s331714179.554788
+e331714179.645840
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/mbg.mp3
+xmbg.mp3
+lSLF07#2@12"Copy mbg.mp3331714179#331714179#0(0"0(0#0#142"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/mbg.mp38648506144#759"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/mbg.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/ok.mp3 ok.mp3
+s331714180.107632
+e331714180.145695
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/ok.mp3
+xok.mp3
+lSLF07#2@11"Copy ok.mp3331714180#331714180#0(0"0(0#0#141"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/ok.mp38650887232#758"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/ok.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/pressPhoto.mp3 pressPhoto.mp3
+s331714181.644646
+e331714181.698309
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/pressPhoto.mp3
+xpressPhoto.mp3
+lSLF07#2@19"Copy pressPhoto.mp3331714181#331714181#0(0"0(0#0#149"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/pressPhoto.mp38645005184#766"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/pressPhoto.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/pressPhoto1.m4a pressPhoto1.m4a
+s331714181.396541
+e331714181.526440
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/pressPhoto1.m4a
+xpressPhoto1.m4a
+lSLF07#2@20"Copy pressPhoto1.m4a331714181#331714181#0(0"0(0#0#150"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/pressPhoto1.m4a8659670816#767"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/pressPhoto1.m4a /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/resolve.mp3 resolve.mp3
+s331714179.544007
+e331714179.611406
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/resolve.mp3
+xresolve.mp3
+lSLF07#2@16"Copy resolve.mp3331714179#331714179#0(0"0(0#0#146"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/resolve.mp38658381888#763"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/resolve.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/speaker_on.png speaker_on.png
+s331714181.453019
+e331714181.459481
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/speaker_on.png
+xspeaker_on.png
+lSLF07#2@19"Copy speaker_on.png331714181#331714181#0(0"0(0#0#149"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/speaker_on.png8658615744#766"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/speaker_on.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/tiger59.mp3 tiger59.mp3
+s331714180.106932
+e331714180.174672
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/tiger59.mp3
+xtiger59.mp3
+lSLF07#2@16"Copy tiger59.mp3331714180#331714180#0(0"0(0#0#146"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/tiger59.mp38657724480#763"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/tiger59.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/강아지2.png 강아지2.png
+s331714180.289917
+e331714180.315077
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/강아지2.png
+x강아지2.png
+lSLF07#2@31"Copy 강아지2.png331714180#331714180#0(0"0(0#0#161"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/강아지2.png8649367424#778"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/강아지2.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/고양이.mp3 고양이.mp3
+s331714181.391924
+e331714181.535660
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/고양이.mp3
+x고양이.mp3
+lSLF07#2@30"Copy 고양이.mp3331714181#331714181#0(0"0(0#0#160"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/고양이.mp38661303392#777"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/고양이.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/고양이2.png 고양이2.png
+s331714180.284617
+e331714180.289704
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/고양이2.png
+x고양이2.png
+lSLF07#2@31"Copy 고양이2.png331714180#331714180#0(0"0(0#0#161"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/고양이2.png8657709888#778"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/고양이2.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/기러기.png 기러기.png
+s331714180.283396
+e331714180.315894
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/기러기.png
+x기러기.png
+lSLF07#2@27"Copy 기러기.png331714180#331714180#0(0"0(0#0#157"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/기러기.png8657909696#774"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/기러기.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/기러기2.png 기러기2.png
+s331714180.279568
+e331714180.284541
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/기러기2.png
+x기러기2.png
+lSLF07#2@28"Copy 기러기2.png331714180#331714180#0(0"0(0#0#158"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/기러기2.png8658020416#775"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/기러기2.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/돼지.png 돼지.png
+s331714181.674950
+e331714181.695699
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/돼지.png
+x돼지.png
+lSLF07#2@21"Copy 돼지.png331714181#331714181#0(0"0(0#0#151"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/돼지.png8659526336#768"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/돼지.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/돼지1.m4a 돼지1.m4a
+s331714181.669701
+e331714181.704902
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/돼지1.m4a
+x돼지1.m4a
+lSLF07#2@22"Copy 돼지1.m4a331714181#331714181#0(0"0(0#0#152"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/돼지1.m4a8659864352#769"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/돼지1.m4a /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/돼지_그림자.png 돼지_그림자.png
+s331714181.616737
+e331714181.658591
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/돼지_그림자.png
+x돼지_그림자.png
+lSLF07#2@43"Copy 돼지_그림자.png331714181#331714181#0(0"0(0#0#173"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/돼지_그림자.png8648638464#790"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/돼지_그림자.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/말_그림자.png 말_그림자.png
+s331714181.617491
+e331714181.668650
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/말_그림자.png
+x말_그림자.png
+lSLF07#2@40"Copy 말_그림자.png331714181#331714181#0(0"0(0#0#170"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/말_그림자.png8648124640#787"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/말_그림자.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/뱀_그림자.png 뱀_그림자.png
+s331714181.622642
+e331714181.668787
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/뱀_그림자.png
+x뱀_그림자.png
+lSLF07#2@40"Copy 뱀_그림자.png331714181#331714181#0(0"0(0#0#170"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/뱀_그림자.png8648063872#787"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/뱀_그림자.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/병아리.png 병아리.png
+s331714180.274751
+e331714180.315556
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/병아리.png
+x병아리.png
+lSLF07#2@30"Copy 병아리.png331714180#331714180#0(0"0(0#0#160"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/병아리.png8658339296#777"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/병아리.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/병아리2.png 병아리2.png
+s331714180.273541
+e331714180.315326
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/병아리2.png
+x병아리2.png
+lSLF07#2@31"Copy 병아리2.png331714180#331714180#0(0"0(0#0#161"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/병아리2.png8658773728#778"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/병아리2.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/부엉이.png 부엉이.png
+s331714180.269379
+e331714180.315210
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/부엉이.png
+x부엉이.png
+lSLF07#2@30"Copy 부엉이.png331714180#331714180#0(0"0(0#0#160"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/부엉이.png8658974400#777"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/부엉이.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/부엉이2.png 부엉이2.png
+s331714180.264476
+e331714180.283310
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/부엉이2.png
+x부엉이2.png
+lSLF07#2@31"Copy 부엉이2.png331714180#331714180#0(0"0(0#0#161"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/부엉이2.png8659229504#778"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/부엉이2.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/사자.mp3 사자.mp3
+s331714181.390741
+e331714181.535547
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/사자.mp3
+x사자.mp3
+lSLF07#2@21"Copy 사자.mp3331714181#331714181#0(0"0(0#0#151"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/사자.mp38609218816#768"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/사자.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/사자.png 사자.png
+s331714180.257481
+e331714180.315779
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/사자.png
+x사자.png
+lSLF07#2@21"Copy 사자.png331714180#331714180#0(0"0(0#0#151"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/사자.png8659704736#768"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/사자.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/사자2.png 사자2.png
+s331714180.255111
+e331714180.289837
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/사자2.png
+x사자2.png
+lSLF07#2@22"Copy 사자2.png331714180#331714180#0(0"0(0#0#152"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/사자2.png8660111168#769"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/사자2.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/염소.mp3 염소.mp3
+s331714181.388772
+e331714181.401318
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/염소.mp3
+x염소.mp3
+lSLF07#2@24"Copy 염소.mp3331714181#331714181#0(0"0(0#0#154"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/염소.mp38645836128#771"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/염소.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/오리.mp3 오리.mp3
+s331714181.392541
+e331714181.519976
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/오리.mp3
+x오리.mp3
+lSLF07#2@21"Copy 오리.mp3331714181#331714181#0(0"0(0#0#151"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/오리.mp38660824224#768"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/오리.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/오리.png 오리.png
+s331714181.639244
+e331714181.698549
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/오리.png
+x오리.png
+lSLF07#2@21"Copy 오리.png331714181#331714181#0(0"0(0#0#151"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/오리.png8646708096#768"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/오리.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/오리2.png 오리2.png
+s331714180.250511
+e331714180.279470
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/오리2.png
+x오리2.png
+lSLF07#2@22"Copy 오리2.png331714180#331714180#0(0"0(0#0#152"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/오리2.png8660801024#769"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/오리2.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/젖소.mp3 젖소.mp3
+s331714181.391333
+e331714181.549003
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/젖소.mp3
+x젖소.mp3
+lSLF07#2@24"Copy 젖소.mp3331714181#331714181#0(0"0(0#0#154"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/젖소.mp38661600864#771"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/젖소.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/젖소.png 젖소.png
+s331714180.249017
+e331714180.315667
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/젖소.png
+x젖소.png
+lSLF07#2@24"Copy 젖소.png331714180#331714180#0(0"0(0#0#154"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/젖소.png8661183936#771"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/젖소.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/젖소2.png 젖소2.png
+s331714180.242611
+e331714180.273464
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/젖소2.png
+x젖소2.png
+lSLF07#2@25"Copy 젖소2.png331714180#331714180#0(0"0(0#0#155"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/젖소2.png8661345248#772"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/젖소2.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/쥐.png 쥐.png
+s331714181.668870
+e331714181.687012
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/쥐.png
+x쥐.png
+lSLF07#2@15"Copy 쥐.png331714181#331714181#0(0"0(0#0#145"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/쥐.png8660646016#762"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/쥐.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/쥐_그림자.png 쥐_그림자.png
+s331714181.624419
+e331714181.672749
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/쥐_그림자.png
+x쥐_그림자.png
+lSLF07#2@37"Copy 쥐_그림자.png331714181#331714181#0(0"0(0#0#167"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/쥐_그림자.png8647827936#784"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/쥐_그림자.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/카멜레온.png 카멜레온.png
+s331714180.238739
+e331714180.315443
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/카멜레온.png
+x카멜레온.png
+lSLF07#2@39"Copy 카멜레온.png331714180#331714180#0(0"0(0#0#169"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/카멜레온.png8661941568#786"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/카멜레온.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/카멜레온2.png 카멜레온2.png
+s331714180.236071
+e331714180.273325
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/카멜레온2.png
+x카멜레온2.png
+lSLF07#2@40"Copy 카멜레온2.png331714180#331714180#0(0"0(0#0#170"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/카멜레온2.png8646721664#787"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/카멜레온2.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/코끼리.png 코끼리.png
+s331714179.652223
+e331714179.714132
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/코끼리.png
+x코끼리.png
+lSLF07#2@27"Copy 코끼리.png331714179#331714179#0(0"0(0#0#157"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/코끼리.png8660055808#774"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/코끼리.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/코끼리1.mp3 코끼리1.mp3
+s331714181.390142
+e331714181.535416
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/코끼리1.mp3
+x코끼리1.mp3
+lSLF07#2@28"Copy 코끼리1.mp3331714181#331714181#0(0"0(0#0#158"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/코끼리1.mp38633153504#775"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/코끼리1.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/코끼리2.png 코끼리2.png
+s331714180.223186
+e331714180.269293
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/코끼리2.png
+x코끼리2.png
+lSLF07#2@28"Copy 코끼리2.png331714180#331714180#0(0"0(0#0#158"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/코끼리2.png8644501152#775"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/코끼리2.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/코뿔소.mp3 코뿔소.mp3
+s331714181.394280
+e331714181.545070
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/코뿔소.mp3
+x코뿔소.mp3
+lSLF07#2@30"Copy 코뿔소.mp3331714181#331714181#0(0"0(0#0#160"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/코뿔소.mp38660066656#777"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/코뿔소.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/코뿔소.png 코뿔소.png
+s331714179.647870
+e331714179.709940
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/코뿔소.png
+x코뿔소.png
+lSLF07#2@30"Copy 코뿔소.png331714179#331714179#0(0"0(0#0#160"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/코뿔소.png8660353344#777"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/코뿔소.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/코뿔소2.png 코뿔소2.png
+s331714180.217273
+e331714180.250101
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/코뿔소2.png
+x코뿔소2.png
+lSLF07#2@31"Copy 코뿔소2.png331714180#331714180#0(0"0(0#0#161"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/코뿔소2.png8615738880#778"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/코뿔소2.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/코알라.png 코알라.png
+s331714180.209614
+e331714180.250451
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/코알라.png
+x코알라.png
+lSLF07#2@30"Copy 코알라.png331714180#331714180#0(0"0(0#0#160"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/코알라.png8638290944#777"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/코알라.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/코알라2.png 코알라2.png
+s331714180.178363
+e331714180.209325
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/코알라2.png
+x코알라2.png
+lSLF07#2@31"Copy 코알라2.png331714180#331714180#0(0"0(0#0#161"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/코알라2.png8645923456#778"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/코알라2.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/토끼.png 토끼.png
+s331714180.177813
+e331714180.250338
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/토끼.png
+x토끼.png
+lSLF07#2@21"Copy 토끼.png331714180#331714180#0(0"0(0#0#151"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/토끼.png8647674208#768"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/토끼.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/토끼2.png 토끼2.png
+s331714180.177262
+e331714180.217200
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/토끼2.png
+x토끼2.png
+lSLF07#2@22"Copy 토끼2.png331714180#331714180#0(0"0(0#0#152"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/토끼2.png8658267360#769"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/토끼2.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/펭귄.png 펭귄.png
+s331714181.658675
+e331714181.681958
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/펭귄.png
+x펭귄.png
+lSLF07#2@27"Copy 펭귄.png331714181#331714181#0(0"0(0#0#157"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/펭귄.png8661851264#774"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/펭귄.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/하마.mp3 하마.mp3
+s331714181.389516
+e331714181.546466
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/하마.mp3
+x하마.mp3
+lSLF07#2@21"Copy 하마.mp3331714181#331714181#0(0"0(0#0#151"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/하마.mp38634923808#768"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/하마.mp3 /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/하마.png 하마.png
+s331714181.640101
+e331714181.682211
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/하마.png
+x하마.png
+lSLF07#2@21"Copy 하마.png331714181#331714181#0(0"0(0#0#151"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/하마.png8646420416#768"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/하마.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/하마_그림자.png 하마_그림자.png
+s331714181.631727
+e331714181.682093
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/하마_그림자.png
+x하마_그림자.png
+lSLF07#2@43"Copy 하마_그림자.png331714181#331714181#0(0"0(0#0#173"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/하마_그림자.png8647375584#790"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/하마_그림자.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/호랑이.png 호랑이.png
+s331714179.647027
+e331714179.709706
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/호랑이.png
+x호랑이.png
+lSLF07#2@30"Copy 호랑이.png331714179#331714179#0(0"0(0#0#160"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/호랑이.png8660775808#777"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/호랑이.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CCpResource build/Debug-iphonesimulator/PicturePuzzle.app/호랑이2.png 호랑이2.png
+s331714179.645934
+e331714179.682019
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicturePuzzle.app/호랑이2.png
+x호랑이2.png
+lSLF07#2@31"Copy 호랑이2.png331714179#331714179#0(0"0(0#0#161"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/호랑이2.png8660941952#778"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/호랑이2.png /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+
+CGenerateDSYMFile /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app.dSYM /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/PicturePuzzle
+s331714184.169852
+e331714184.209573
+r1
+xGenerateDSYMFile
+x/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app.dSYM
+x/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/PicturePuzzle
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/PicturePuzzle.app.dSYM build/Debug-iphonesimulator/PicturePuzzle.app/PicturePuzzle331714184#331714184#0(0"0(0#0#194"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/PicturePuzzle8648369440#689"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/PicturePuzzle -o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app.dSYM0#
+
+CLd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/PicturePuzzle normal i386
+s331714184.134159
+e331714184.169757
+r1
+xLd
+x/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/PicturePuzzle
+xnormal
+xi386
+lSLF07#2@199"Link /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/PicturePuzzle331714184#331714184#0(0"0(0#0#0"8648739360#1434"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator -F/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator -filelist /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/Objects-normal/i386/PicturePuzzle.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AVFoundation -o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/PicturePuzzle0#
+
+CProcessInfoPlistFile /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/Info.plist PicturePuzzle-Info.plist
+s331714179.046221
+e331714179.057542
+r1
+xProcessInfoPlistFile
+x/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/Info.plist
+xPicturePuzzle-Info.plist
+lSLF07#2@32"Process PicturePuzzle-Info.plist331714179#331714179#0(0"0(0#0#159"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/PicturePuzzle-Info.plist8660141920#785"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility PicturePuzzle-Info.plist -genpkginfo /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app/Info.plist0#
+
+CProcessPCH /var/folders/nv/nvvdLrZ+GyulkCKyupbmsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicturePuzzle_Prefix-dlcdqbwtamaoywctjxeqwbqhflqn/PicturePuzzle_Prefix.pch.gch PicturePuzzle_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s331714181.922138
+e331714183.277989
+r1
+xProcessPCH
+x/var/folders/nv/nvvdLrZ+GyulkCKyupbmsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicturePuzzle_Prefix-dlcdqbwtamaoywctjxeqwbqhflqn/PicturePuzzle_Prefix.pch.gch
+xPicturePuzzle_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile PicturePuzzle_Prefix.pch331714181#331714183#0(0"0(0#0#159"/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/PicturePuzzle_Prefix.pch8651043904#2880"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-generated-files.hmap -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-own-target-headers.hmap -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-all-target-headers.hmap -iquote /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/PicturePuzzle-project-headers.hmap -F/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/include -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/DerivedSources/i386 -I/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/PicturePuzzle.build/Debug-iphonesimulator/PicturePuzzle.build/DerivedSources -c /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/PicturePuzzle_Prefix.pch -o /var/folders/nv/nvvdLrZ+GyulkCKyupbmsE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicturePuzzle_Prefix-dlcdqbwtamaoywctjxeqwbqhflqn/PicturePuzzle_Prefix.pch.gch0#
+
+CTouch /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app
+s331714184.209670
+e331714184.216948
+r1
+xTouch
+x/Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app
+lSLF07#2@186"Touch /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app331714184#331714184#0(0"0(0#0#0"8661096864#476"    cd /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/dongupak/Documents/0.개발용앱/개발용앱_old/32.PicturePuzzle/PicturePuzzle_0.4/build/Debug-iphonesimulator/PicturePuzzle.app0#
+

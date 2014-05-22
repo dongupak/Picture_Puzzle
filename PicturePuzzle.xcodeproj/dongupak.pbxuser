@@ -1,0 +1,305 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* PicturePuzzleAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {948, 538}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 657}";
+		};
+	};
+	1D3623250D0F684500981E51 /* PicturePuzzleAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2244, 1590}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2145, 580}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* PicturePuzzle */ = {
+		activeExec = 0;
+		executables = (
+			FA3D72EA12CAF3DA00A32068 /* PicturePuzzle */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* PicturePuzzleViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {582, 568}}";
+			sepNavSelRange = "{488, 8}";
+			sepNavVisRange = "{224, 417}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* PicturePuzzleViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1160.71, 1957}}";
+			sepNavSelRange = "{564, 36}";
+			sepNavVisRange = "{143, 938}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FA3D72EA12CAF3DA00A32068 /* PicturePuzzle */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PicturePuzzle */;
+		codeSenseManager = FA3D730512CAF3E300A32068 /* Code sense */;
+		executables = (
+			FA3D72EA12CAF3DA00A32068 /* PicturePuzzle */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					695,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					789,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 331714174;
+			PBXWorkspaceStateSaveDate = 331714174;
+		};
+		perUserProjectItems = {
+			FA9D134E13C58F1C00632910 /* PBXTextBookmark */ = FA9D134E13C58F1C00632910 /* PBXTextBookmark */;
+			FAA2E2A312D1B91000CA830D /* PBXTextBookmark */ = FAA2E2A312D1B91000CA830D /* PBXTextBookmark */;
+			FAA2E2A412D1B91000CA830D /* PBXTextBookmark */ = FAA2E2A412D1B91000CA830D /* PBXTextBookmark */;
+			FAA2E2A512D1B91000CA830D /* PBXTextBookmark */ = FAA2E2A512D1B91000CA830D /* PBXTextBookmark */;
+			FAA2E2A612D1B91000CA830D /* PBXTextBookmark */ = FAA2E2A612D1B91000CA830D /* PBXTextBookmark */;
+			FAA2E2A712D1B91000CA830D /* PBXTextBookmark */ = FAA2E2A712D1B91000CA830D /* PBXTextBookmark */;
+			FAA2E2A812D1B91000CA830D /* PBXTextBookmark */ = FAA2E2A812D1B91000CA830D /* PBXTextBookmark */;
+			FAA2E2A912D1B91000CA830D /* PBXTextBookmark */ = FAA2E2A912D1B91000CA830D /* PBXTextBookmark */;
+			FAB89E3012D2B9D4008EDC32 /* PBXTextBookmark */ = FAB89E3012D2B9D4008EDC32 /* PBXTextBookmark */;
+			FAB89E3112D2B9D4008EDC32 /* PBXTextBookmark */ = FAB89E3112D2B9D4008EDC32 /* PBXTextBookmark */;
+			FAB89E3312D2B9D4008EDC32 /* PBXTextBookmark */ = FAB89E3312D2B9D4008EDC32 /* PBXTextBookmark */;
+		};
+		sourceControlManager = FA3D730412CAF3E300A32068 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8E8FE9D612BBCB8E00C54915 /* exam.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {948, 1286}}";
+			sepNavSelRange = "{564, 0}";
+			sepNavVisRange = "{182, 516}";
+		};
+	};
+	8E8FE9D712BBCB8E00C54915 /* exam.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1302, 3502}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{3451, 585}";
+		};
+	};
+	8E8FEA8712BBDAB200C54915 /* exam1.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {948, 1522}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 539}";
+		};
+	};
+	8EADDB5312C2225500E6E3D2 /* main.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {948, 564}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 610}";
+		};
+	};
+	8EADDB5412C2225500E6E3D2 /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1058, 1729}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{804, 867}";
+		};
+	};
+	FA3D72EA12CAF3DA00A32068 /* PicturePuzzle */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PicturePuzzle;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FA3D730412CAF3E300A32068 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FA3D730512CAF3E300A32068 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FA9D134E13C58F1C00632910 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PicturePuzzleViewController.m */;
+		name = "PicturePuzzleViewController.m: 26";
+		rLen = 36;
+		rLoc = 564;
+		rType = 0;
+		vrLen = 938;
+		vrLoc = 143;
+	};
+	FAA2E2A312D1B91000CA830D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8EADDB5312C2225500E6E3D2 /* main.h */;
+		name = "main.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 610;
+		vrLoc = 0;
+	};
+	FAA2E2A412D1B91000CA830D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8EADDB5412C2225500E6E3D2 /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 867;
+		vrLoc = 804;
+	};
+	FAA2E2A512D1B91000CA830D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8E8FE9D712BBCB8E00C54915 /* exam.m */;
+		name = "exam.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 585;
+		vrLoc = 3451;
+	};
+	FAA2E2A612D1B91000CA830D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8E8FEA8712BBDAB200C54915 /* exam1.h */;
+		name = "exam1.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 539;
+		vrLoc = 0;
+	};
+	FAA2E2A712D1B91000CA830D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8E8FE9D612BBCB8E00C54915 /* exam.h */;
+		name = "exam.h: 31";
+		rLen = 0;
+		rLoc = 564;
+		rType = 0;
+		vrLen = 516;
+		vrLoc = 182;
+	};
+	FAA2E2A812D1B91000CA830D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* PicturePuzzleAppDelegate.h */;
+		name = "PicturePuzzleAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 657;
+		vrLoc = 0;
+	};
+	FAA2E2A912D1B91000CA830D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PicturePuzzleAppDelegate.m */;
+		name = "PicturePuzzleAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 580;
+		vrLoc = 2145;
+	};
+	FAA2E2C712D2A74300CA830D /* UINibDeclarations.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UINibDeclarations.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UINibDeclarations.h;
+		sourceTree = "<absolute>";
+	};
+	FAB89E3012D2B9D4008EDC32 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FAA2E2C712D2A74300CA830D /* UINibDeclarations.h */;
+		name = "UINibDeclarations.h: 8";
+		rLen = 161;
+		rLoc = 100;
+		rType = 0;
+		vrLen = 261;
+		vrLoc = 0;
+	};
+	FAB89E3112D2B9D4008EDC32 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* PicturePuzzleViewController.h */;
+		name = "PicturePuzzleViewController.h: 24";
+		rLen = 8;
+		rLoc = 488;
+		rType = 0;
+		vrLen = 417;
+		vrLoc = 224;
+	};
+	FAB89E3312D2B9D4008EDC32 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PicturePuzzleViewController.m */;
+		name = "PicturePuzzleViewController.m: 48";
+		rLen = 32;
+		rLoc = 1221;
+		rType = 0;
+		vrLen = 540;
+		vrLoc = 0;
+	};
+}
